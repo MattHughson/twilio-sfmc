@@ -30,7 +30,7 @@
     }
   },
   "configurationArguments": {
-    "applicationExtensionKey": "Sw6Qr_einGKYZYAXR6vIehDnIDUVrBkeSo9iePqWLciNMSvkz92SHdo75nmN50IgMYwQfSxWaPV_GeWP-W1vpf97fMe3gfChd-IaWNv3SGEVWCkSmDYlnkESNWG7KcvVKnXBmt3R6jOdMiWGhlrX7SbuJ6C-AoFYy-VrSn6hbNxIPuXFETPEwXLct-0dTHtbJQnrcjzi-M0MRJ4pr_Y3QyI5ULHoDRUYdttN4Ndxa1Jz9wmgzvYVsARVGhXJOw2",
+    "applicationExtensionKey": "eefec9ed-67d1-4254-b970-fa851f4e310f",
     "save": {
       "url": "https://sfmctry.herokuapp.com/save",
       "verb": "POST",

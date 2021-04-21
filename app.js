@@ -34,7 +34,7 @@ app.post('/logout', routes.logout)
 // app.get('/validate', activity.validate)
 // Custom Hello World Activity Routes
 app.post('/journeybuilder/save/', activity.save)
-app.get('/journeybuilder/validate/', activity.validate)
+app.post('/journeybuilder/validate/', activity.validate)
 app.post('/journeybuilder/publish/', activity.publish)
 app.post('/journeybuilder/execute/', activity.execute)
 
