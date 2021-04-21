@@ -30,7 +30,7 @@
     }
   },
   "configurationArguments": {
-    "applicationExtensionKey": "eefec9ed-67d1-4254-b970-fa851f4e310f",
+    "applicationExtensionKey": "8bb2b214-c4bf-4120-b957-b6dece53e064",
     "save": {
       "url": "https://sfmctry.herokuapp.com/save",
       "verb": "POST",
