@@ -137,6 +137,7 @@ exports.execute = function (req, res) {
 }
 
 /*
+
  * POST Handler for /publish/ route of Activity.
  */
 exports.publish = function (req, res) {
