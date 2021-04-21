@@ -89,7 +89,8 @@ exports.execute = function (req, res) {
   console.log('4')
   console.log('3')
   console.log('2')
-  console.log('1') / console.log(req.body.inArguments)
+  console.log('1')
+  console.log(req.body.inArguments)
   console.log('Executed: ' + req.body.inArguments[0])
 
   var requestBody = req.body.inArguments[0]
